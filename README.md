@@ -11,9 +11,9 @@ Team Leader : Kamal Esakki T
 
 Team Members : Vijaya Sarathi C 
 
-Team Members : Rama Raju Siva
+Team Members : Rama Raju Siva B
 
-Team Members : Muneeswaran 
+Team Members : Muneeswaran M
 
 Features: 1.Manage jewellery stock, billing, and customer details easily. 
           2.Generate automatic invoices with tax and discount options.
@@ -27,5 +27,5 @@ Technologies Used: 1.HTML, CSS, and JavaScript for front-end design.
                    4.Reports and Dashboards for analytics and data visualization.
 
 SalesForce Instance:
-Demo Video Link:
+Demo Video Link:https://drive.google.com/file/d/1uQJo1yQ91BsNYmCRixEJ2GKhkVOSLLxi/view?usp=sharing
 
